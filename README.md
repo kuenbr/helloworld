@@ -1,3 +1,3 @@
 # helloworld
-ich habe wie geünscht geändert
+ich habe wie gewünscht geändert
 Kurt
